@@ -1,0 +1,18 @@
+{
+	"info": {
+		"id": "en.novelfire",
+		"name": "Novel Fire",
+		"version": 1,
+		"url": "https://novelfire.net",
+		"contentRating": 1,
+		"languages": ["en"],
+		"minAppVersion": "0.8.3"
+	},
+	"listings": [
+		{ "id": "most-read", "name": "Most Read" },
+		{ "id": "ratings", "name": "Top Rated" },
+		{ "id": "most-review", "name": "Most Reviewed" },
+		{ "id": "most-comment", "name": "Most Commented" },
+		{ "id": "most-lib", "name": "Most Collected" }
+	]
+}
